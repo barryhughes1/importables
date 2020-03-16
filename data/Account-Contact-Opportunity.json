@@ -1,0 +1,780 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Sample Bulk API Contact 1",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef1"
+                        },
+                        "LastName": "Bulk API Contact 5",
+                        "FirstName": "Sample"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Sample Bulk API Contact 2",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef2"
+                        },
+                        "LastName": "Bulk API Contact 6",
+                        "FirstName": "Sample"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Sample Bulk API Contact 3",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef3"
+                        },
+                        "LastName": "Bulk API Contact 7",
+                        "FirstName": "Sample"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "Sample Bulk API Contact 4",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef4"
+                        },
+                        "LastName": "Bulk API Contact 8",
+                        "FirstName": "Sample"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "Name": "Sample SOAP Account 2",
+            "Contacts": {
+                "records": []
+            },
+            "Opportunities": {
+                "records": []
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "Name": "GenePoint",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef5"
+                        },
+                        "LastName": "Frank",
+                        "FirstName": "Edna",
+                        "Birthdate": "1940-06-15"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef1"
+                        },
+                        "Name": "GenePoint Lab Generators",
+                        "Amount": 60000,
+                        "StageName": "Id. Decision Makers",
+                        "CloseDate": "2018-04-13"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef2"
+                        },
+                        "Name": "GenePoint SLA",
+                        "Amount": 30000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-04-16"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef3"
+                        },
+                        "Name": "GenePoint Standby Generator",
+                        "Amount": 85000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-02-21"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef7"
+            },
+            "Name": "United Oil & Gas, UK",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef6"
+                        },
+                        "LastName": "James",
+                        "FirstName": "Ashley",
+                        "Birthdate": "1944-08-01"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef8"
+            },
+            "Name": "United Oil & Gas, Singapore",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef7"
+                        },
+                        "LastName": "D'Cruz",
+                        "FirstName": "Liz",
+                        "Birthdate": "1960-01-09"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef8"
+                        },
+                        "LastName": "Ripley",
+                        "FirstName": "Tom",
+                        "Birthdate": "1948-09-28"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef9"
+            },
+            "Name": "Edge Communications",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef9"
+                        },
+                        "LastName": "Forbes",
+                        "FirstName": "Sean",
+                        "Birthdate": "1945-01-01"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef10"
+                        },
+                        "LastName": "Gonzalez",
+                        "FirstName": "Rose",
+                        "Birthdate": "1966-04-05"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef4"
+                        },
+                        "Name": "Edge Emergency Generator",
+                        "Amount": 35000,
+                        "StageName": "Id. Decision Makers",
+                        "CloseDate": "2018-04-25"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef5"
+                        },
+                        "Name": "Edge SLA",
+                        "Amount": 60000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-01-04"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef6"
+                        },
+                        "Name": "Edge Installation",
+                        "Amount": 50000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-02-08"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef7"
+                        },
+                        "Name": "Edge Emergency Generator",
+                        "Amount": 75000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-04-19"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef10"
+            },
+            "Name": "Burlington Textiles Corp of America",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef11"
+                        },
+                        "LastName": "Rogers",
+                        "FirstName": "Jack"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef8"
+                        },
+                        "Name": "Burlington Textiles Weaving Plant Generator",
+                        "Amount": 235000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-02-23"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef11"
+            },
+            "Name": "Pyramid Construction Inc.",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef12"
+                        },
+                        "LastName": "Stumuller",
+                        "FirstName": "Pat"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef9"
+                        },
+                        "Name": "Pyramid Emergency Generators",
+                        "Amount": 100000,
+                        "StageName": "Prospecting",
+                        "CloseDate": "2018-02-26"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef12"
+            },
+            "Name": "Dickenson plc",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef13"
+                        },
+                        "LastName": "Young",
+                        "FirstName": "Andy"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef10"
+                        },
+                        "Name": "Dickenson Mobile Generators",
+                        "Amount": 15000,
+                        "StageName": "Qualification",
+                        "CloseDate": "2018-03-02"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef13"
+            },
+            "Name": "Grand Hotels & Resorts Ltd",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef14"
+                        },
+                        "LastName": "Bond",
+                        "FirstName": "John",
+                        "Birthdate": "1954-02-10"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef15"
+                        },
+                        "LastName": "Barr",
+                        "FirstName": "Tim",
+                        "Birthdate": "1951-11-30"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef11"
+                        },
+                        "Name": "Grand Hotels Emergency Generators",
+                        "Amount": 210000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-03-31"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef12"
+                        },
+                        "Name": "Grand Hotels SLA",
+                        "Amount": 90000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-01-11"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef13"
+                        },
+                        "Name": "Grand Hotels Generator Installations",
+                        "Amount": 350000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-04-02"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef14"
+                        },
+                        "Name": "Grand Hotels Guest Portable Generators",
+                        "Amount": 250000,
+                        "StageName": "Value Proposition",
+                        "CloseDate": "2018-04-19"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef15"
+                        },
+                        "Name": "Grand Hotels Kitchen Generator",
+                        "Amount": 15000,
+                        "StageName": "Id. Decision Makers",
+                        "CloseDate": "2018-01-09"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef14"
+            },
+            "Name": "Express Logistics and Transport",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef16"
+                        },
+                        "LastName": "Davis",
+                        "FirstName": "Josh",
+                        "Birthdate": "1946-07-07"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef17"
+                        },
+                        "LastName": "Levy",
+                        "FirstName": "Babara",
+                        "Birthdate": "1935-03-13"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef16"
+                        },
+                        "Name": "Express Logistics SLA",
+                        "Amount": 120000,
+                        "StageName": "Perception Analysis",
+                        "CloseDate": "2018-01-13"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef17"
+                        },
+                        "Name": "Express Logistics Standby Generator",
+                        "Amount": 220000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-01-14"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef18"
+                        },
+                        "Name": "Express Logistics Portable Truck Generators",
+                        "Amount": 80000,
+                        "StageName": "Value Proposition",
+                        "CloseDate": "2018-01-12"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef15"
+            },
+            "Name": "University of Arizona",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef18"
+                        },
+                        "LastName": "Grey",
+                        "FirstName": "Jane",
+                        "Birthdate": "1942-05-24"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef19"
+                        },
+                        "Name": "University of AZ Portable Generators",
+                        "Amount": 50000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-01-18"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef20"
+                        },
+                        "Name": "University of AZ Installations",
+                        "Amount": 100000,
+                        "StageName": "Proposal/Price Quote",
+                        "CloseDate": "2018-01-15"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef21"
+                        },
+                        "Name": "University of AZ SLA",
+                        "Amount": 90000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-01-22"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef16"
+            },
+            "Name": "United Oil & Gas Corp.",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef19"
+                        },
+                        "LastName": "Green",
+                        "FirstName": "Avi",
+                        "Birthdate": "1931-11-03"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef20"
+                        },
+                        "LastName": "Song",
+                        "FirstName": "Arthur",
+                        "Birthdate": "1949-11-22"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef21"
+                        },
+                        "LastName": "Boyle",
+                        "FirstName": "Lauren",
+                        "Birthdate": "1958-09-09"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef22"
+                        },
+                        "LastName": "Pavlova",
+                        "FirstName": "Stella",
+                        "Birthdate": "1941-07-27"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef22"
+                        },
+                        "Name": "United Oil Office Portable Generators",
+                        "Amount": 125000,
+                        "StageName": "Negotiation/Review",
+                        "CloseDate": "2018-02-18"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef23"
+                        },
+                        "Name": "United Oil Refinery Generators",
+                        "Amount": 915000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-03-28"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef24"
+                        },
+                        "Name": "United Oil Installations",
+                        "Amount": 270000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-02-13"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef25"
+                        },
+                        "Name": "United Oil Installations",
+                        "Amount": 270000,
+                        "StageName": "Negotiation/Review",
+                        "CloseDate": "2018-02-14"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef26"
+                        },
+                        "Name": "United Oil Refinery Generators",
+                        "Amount": 270000,
+                        "StageName": "Proposal/Price Quote",
+                        "CloseDate": "2018-04-04"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef27"
+                        },
+                        "Name": "United Oil SLA",
+                        "Amount": 120000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-04-11"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef28"
+                        },
+                        "Name": "United Oil Emergency Generators",
+                        "Amount": 440000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-02-07"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef29"
+                        },
+                        "Name": "United Oil Standby Generators",
+                        "Amount": 120000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-04-12"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef30"
+                        },
+                        "Name": "United Oil Plant Standby Generators",
+                        "Amount": 675000,
+                        "StageName": "Needs Analysis",
+                        "CloseDate": "2018-03-14"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef31"
+                        },
+                        "Name": "United Oil Installations",
+                        "Amount": 235000,
+                        "StageName": "Closed Won",
+                        "CloseDate": "2018-02-25"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef17"
+            },
+            "Name": "sForce",
+            "Opportunities": {
+                "records": []
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef23"
+                        },
+                        "LastName": "Llorrac",
+                        "FirstName": "Jake"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef24"
+                        },
+                        "LastName": "Nedaerk",
+                        "FirstName": "Siddartha"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef18"
+            },
+            "Name": "NewAccount2",
+            "Contacts": {
+                "records": []
+            },
+            "Opportunities": {
+                "records": []
+            }
+        }
+    ]
+}

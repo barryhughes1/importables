@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/financeImport": [
+                "financeImport/financeImport.js"
+            ],
+            "c/libsMomentjs": [
+                "libsMomentjs/libsMomentjs.js"
+            ],
+            "c/mortgage": [
+                "mortgage/mortgage.js"
+            ],
+            "c/topOpportunitiesTable": [
+                "topOpportunitiesTable/topOpportunitiesTable.js"
+            ],
+            "c/helloBinding": [
+                "helloBinding/helloBinding.js"
+            ],
+            "c/miscSharedJavaScript": [
+                "miscSharedJavaScript/miscSharedJavaScript.js"
+            ],
+            "c/user": [
+                "user/user.js"
+            ],
+            "c/fakeDataFetcher": [
+                "fakeDataFetcher/fakeDataFetcher.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

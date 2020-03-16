@@ -1,0 +1,10 @@
+Javascript is allowed:
+1. as a file with LWC (ROOT or SUB FOLDERS)
+2. Another LWC component for import
+
+If javascript is added to another folder in LWC or or directories - the file will not save to the org - even if it is in the local project.
+
+Code will not compile if an imcorrect file is referenced as an import
+- but it does not check for export class and function names.
+
+function not exported will be flagged in a save 

@@ -1,0 +1,17 @@
+<template>
+    <lightning-card title="LibsMomentjs" icon-name="custom:custom19">
+        <div class="slds-m-around_medium">
+            Amount: {amt} <br/> Now: {nowVal}
+        </div>
+
+        
+        <ul class="slds-m-around_medium">
+            <template for:each={opportunities} for:item="opportunity">
+                <li key={opportunity.Name}>
+                    {opportunity.Name}, {opportunity.Value}
+                </li>
+            </template>
+        </ul>
+    </lightning-card>
+
+</template>

@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title="Opportunities Ordered by Amount (DESC) and CloseDate (ASC)">
+        <lightning-datatable columns={columns} 
+                            data={opportunities} 
+                            key-field="id"
+                            hide-checkbox-column="true"
+                            show-row-number-column="true"></lightning-datatable>
+    </lightning-card>
+
+    <lightning-card title="Closed Won Opportunities - Filtered from above table" class="slds-m-top_medium">
+        <lightning-datatable columns={columns} 
+                            data={opportunitiesClosedWon} 
+                            key-field="id"
+                            hide-checkbox-column="true"
+                            show-row-number-column="true"></lightning-datatable>
+    </lightning-card>
+
+</template>
