@@ -31,8 +31,8 @@ export default class HelloBinding extends LightningElement {
         console.log('handleChange');
         console.log(JSON.stringify(this.usr));
         console.log('Saying Hi to ' + this.usr.sayHi());
-        console.log(this.usr.getName() + ' is ' + this.usr.getAge() + ' years old.');
-        this.greeting = event.target.value + ' - ' + this.usr.getName() + ' is ' + this.usr.getAge() + ' years old.';
+        // console.log(this.usr.getName() + ' is ' + this.usr.getAge() + ' years old.');
+        // this.greeting = event.target.value + ' - ' + this.usr.getName() + ' is ' + this.usr.getAge() + ' years old.';
         printUserName(this.usr);
     }
 
